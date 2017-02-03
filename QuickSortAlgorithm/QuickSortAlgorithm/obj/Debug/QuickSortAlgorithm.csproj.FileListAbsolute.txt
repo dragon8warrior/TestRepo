@@ -1,0 +1,8 @@
+c:\users\broos\documents\visual studio 2015\Projects\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\QuickSortAlgorithm.exe.config
+c:\users\broos\documents\visual studio 2015\Projects\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\QuickSortAlgorithm.exe
+c:\users\broos\documents\visual studio 2015\Projects\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\QuickSortAlgorithm.pdb
+c:\users\broos\documents\visual studio 2015\Projects\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\QuickSortAlgorithm.exe
+c:\users\broos\documents\visual studio 2015\Projects\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\QuickSortAlgorithm.pdb
+C:\GitHub\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\QuickSortAlgorithm.exe.config
+C:\GitHub\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\QuickSortAlgorithm.exe
+C:\GitHub\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\QuickSortAlgorithm.pdb
